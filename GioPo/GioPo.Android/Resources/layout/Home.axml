@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+  <!--<Button
+        android:id="@+id/buttonMyVehicles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/myTracks" />-->
+  <Button 
+        android:id="@+id/buttonMyTracks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/myTracks"/>
+  <!--<Button
+        android:id="@+id/buttonAddVehicles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/addVehicle" />-->
+  <Button  
+        android:id="@+id/buttonSearchTrack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/searchTracks" />
+  
+  <Button
+        android:id="@+id/buttonSettings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/settings" />
+</LinearLayout>

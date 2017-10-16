@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoPo.Android", "GoPo\GoPo.Android\GoPo.Android.csproj", "{97EB8445-1681-4676-9A03-24BA8FF8CC1F}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GoPo", "GoPo\GoPo\GoPo.shproj", "{DDD96294-5DE4-463F-A194-428905E8AF0A}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		GoPo\GoPo\GoPo.projitems*{97eb8445-1681-4676-9a03-24ba8ff8cc1f}*SharedItemsImports = 4
+		GoPo\GoPo\GoPo.projitems*{ddd96294-5de4-463f-a194-428905e8af0a}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|iPhone.Build.0 = Release|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{97EB8445-1681-4676-9A03-24BA8FF8CC1F}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D54367FE-2EB2-4C86-8E08-AE4A6C6F767C}
+	EndGlobalSection
+EndGlobal

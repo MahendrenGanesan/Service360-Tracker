@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">GioPo.Android</string>
+  <string name="registration">Registration</string>
+  <string name="signIn">Sign In</string>
+  <string name="login">Login</string>
+  <string name="myTracks">My Tracks</string>
+  <string name="searchTracks">Search Tracks</string>
+  <string name="settings">Settings</string>
+</resources>
